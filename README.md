@@ -4,11 +4,11 @@ Project developed during the PHP course that I took at BCIT (British Columbia In
 
 ![Screenshot](WebScreen.png)
 
-![Screenshot](WebScreen1.png)
-
 ![Screenshot](WebScreen2.png)
 
 ![Screenshot](WebScreen3.png)
+
+![Screenshot](WebScreen1.png)
 
 ![Screenshot](WebScreen4.png)
 
